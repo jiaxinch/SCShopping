@@ -1,0 +1,20 @@
+.header{
+    margin: auto;
+    font-size: 2.5em;
+    height: 150px;
+    line-height: 150px;
+    background-color:#FFCC00;
+}
+.header p{
+    margin: auto;
+    color: #990000;
+}
+.home{
+height: 100%;
+}
+.shop{
+height: 100%;
+}
+.navigation{
+    height: 35px;
+}
